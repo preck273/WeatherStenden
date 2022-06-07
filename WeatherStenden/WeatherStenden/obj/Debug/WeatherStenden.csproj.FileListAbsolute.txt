@@ -1,0 +1,170 @@
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\WeatherStenden.exe.config
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\WeatherStenden.exe
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\WeatherStenden.pdb
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.csprojAssemblyReference.cache
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.Form1.resources
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.Properties.Resources.resources
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.csproj.GenerateResource.cache
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.csproj.CoreCompileInputs.cache
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.exe
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.pdb
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.About.resources
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\Database1.mdf
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\Database1_log.ldf
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\Newtonsoft.Json.dll
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\Newtonsoft.Json.xml
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.csproj.CopyComplete
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\System.Net.Http.Formatting.dll
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\System.Net.Http.Formatting.xml
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\Database1.mdf
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\Database1_log.ldf
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\WeatherStenden.exe.config
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\WeatherStenden.exe
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\WeatherStenden.pdb
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\Newtonsoft.Json.dll
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\System.Net.Http.Formatting.dll
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\Newtonsoft.Json.xml
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\System.Net.Http.Formatting.xml
+C:\Chris\Github\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.csprojAssemblyReference.cache
+C:\Chris\Github\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.Form1.resources
+C:\Chris\Github\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.About.resources
+C:\Chris\Github\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.Properties.Resources.resources
+C:\Chris\Github\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.csproj.GenerateResource.cache
+C:\Chris\Github\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.csproj.CoreCompileInputs.cache
+C:\Chris\Github\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.csproj.CopyComplete
+C:\Chris\Github\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.exe
+C:\Chris\Github\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.pdb
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\BouncyCastle.Crypto.dll
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\Google.Protobuf.dll
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\K4os.Compression.LZ4.dll
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\K4os.Hash.xxHash.dll
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\MySql.Data.dll
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\System.Buffers.dll
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\System.Data.SqlClient.dll
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\System.Memory.dll
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\System.Numerics.Vectors.dll
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\Ubiety.Dns.Core.dll
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\Zstandard.Net.dll
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\Google.Protobuf.pdb
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\Google.Protobuf.xml
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\K4os.Compression.LZ4.xml
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\K4os.Hash.xxHash.xml
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\MySql.Data.xml
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\System.Buffers.xml
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\System.Data.SqlClient.xml
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\System.Memory.xml
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\System.Numerics.Vectors.xml
+C:\Chris\Github\WeatherStenden\WeatherStenden\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\BouncyCastle.Crypto.dll
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\Google.Protobuf.dll
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\K4os.Compression.LZ4.dll
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\K4os.Hash.xxHash.dll
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\MySql.Data.dll
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\System.Buffers.dll
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\System.Data.SqlClient.dll
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\System.Memory.dll
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\System.Numerics.Vectors.dll
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\Ubiety.Dns.Core.dll
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\Zstandard.Net.dll
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\Google.Protobuf.pdb
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\Google.Protobuf.xml
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\K4os.Compression.LZ4.xml
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\K4os.Hash.xxHash.xml
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\MySql.Data.xml
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\System.Buffers.xml
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\System.Data.SqlClient.xml
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\System.Memory.xml
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\System.Numerics.Vectors.xml
+C:\Chris\Period 4\C#\WeatherStenden\WeatherStenden\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\Database1.mdf
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\Database1_log.ldf
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\WeatherStenden.exe.config
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\WeatherStenden.exe
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\WeatherStenden.pdb
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\Google.Protobuf.dll
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\MySql.Data.dll
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\System.Buffers.dll
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\System.Memory.dll
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\Zstandard.Net.dll
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\Google.Protobuf.pdb
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\Google.Protobuf.xml
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\MySql.Data.xml
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\System.Buffers.xml
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\System.Memory.xml
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.csprojAssemblyReference.cache
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.Form1.resources
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.About.resources
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.Properties.Resources.resources
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.csproj.GenerateResource.cache
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.csproj.CoreCompileInputs.cache
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.csproj.CopyComplete
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.exe
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.pdb
+C:\Users\Pepelito\Desktop\Year 1\Period 4\Into to C#\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.SplashScreen.resources
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\Database1.mdf
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\Database1_log.ldf
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\WeatherStenden.exe.config
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\WeatherStenden.exe
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\WeatherStenden.pdb
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\Google.Protobuf.dll
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\MySql.Data.dll
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\System.Buffers.dll
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\System.Memory.dll
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\Zstandard.Net.dll
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\Google.Protobuf.pdb
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\Google.Protobuf.xml
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\MySql.Data.xml
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\System.Buffers.xml
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\System.Memory.xml
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.csproj.AssemblyReference.cache
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.Form1.resources
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.About.resources
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.Properties.Resources.resources
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.SplashScreen.resources
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.csproj.GenerateResource.cache
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.csproj.CoreCompileInputs.cache
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.csproj.CopyComplete
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.exe
+C:\Users\Pepelito\Desktop\Year 1\Period 4\WeatherStenden\WeatherStenden\obj\Debug\WeatherStenden.pdb
